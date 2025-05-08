@@ -14,7 +14,7 @@
 <h2>Technologies Used</h2>
 <ul>
     <li><bold>React:</bold>Front-end framework to build the user interface.</li>
-    <li><:>Open Trivia Database API:</bold>Displays a multiple-choice question with selectable answers.</li>
+    <li><bold>Open Trivia Database API:</bold>Displays a multiple-choice question with selectable answers.</li>
     <li><bold>CSS:</bold> Basic styling for the application.</li>
 </ul>
 
