@@ -21,7 +21,7 @@
 ---
 <h2>Setup & Installation</h2>
 <ol>
-    <li><bold>Clone the repository:</bold>git clone https://github.com/your-username/quiz-app.git (https://github.com/ksol17/M7-Open-Trivia-Database-Quiz-app.git)</li>
+    <li><bold>Clone the repository:</bold>git clone https://github.com/ksol17/M7-Open-Trivia-Database-Quiz-app.git</li>
     <li><bold>Navigate into the project directory:</bold>cd quiz-app
     </li>
     <li><bold>Install dependencies:</bold>npm install
